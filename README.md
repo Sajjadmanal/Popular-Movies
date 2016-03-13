@@ -1,0 +1,2 @@
+# Popular-Movies
+An Android App to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers and launches a detail screen whenever a particular movie is selected. This app utilize core Android user interface components and fetches movie information using themoviedb.org web API.  ( Please change the API Key in string.xml file with your own API Key)
