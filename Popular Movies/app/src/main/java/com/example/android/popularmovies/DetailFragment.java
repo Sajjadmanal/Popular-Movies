@@ -20,8 +20,6 @@ public class DetailFragment extends Fragment {
     @Bind(R.id.detail_date)TextView dateView;
     @Bind(R.id.detail_rating)TextView rateView;
     @Bind(R.id.detail_summary)TextView summaryView;
-
-
     public DetailFragment() {
     }
 
